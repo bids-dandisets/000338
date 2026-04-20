@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "This dataset is the group-weight BMI experiment data. ",
     "DatasetType": "raw",
-    "Authors": null,
+    "Authors": [
+        "Zhang, Chenguang"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
